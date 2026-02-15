@@ -1,6 +1,6 @@
 ---
-name: morning-digest
-description: # Podcast Digest Skill
+name morning-digest
+description # Podcast Digest Skill
 I am an agent that fetches messages from Slack, Gmail, and WhatsApp.
 1. Authenticate using the provided MCP servers or environment secrets.
 2. Filter for "important" messages (look for high-priority senders or keywords).
